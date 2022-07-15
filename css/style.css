@@ -47,16 +47,16 @@ nav {
 }
 @keyframes banner {
     0%, 21% {
-        background-image: url(/assets/imgs/azafata2.jpg);
+        background-image: url('../assets/imgs/azafata2.jpg');
     }
     26%, 47% {
-        background-image: url(/assets/imgs//hotel.jpg);
+        background-image: url('../assets/imgs/hotel.jpg');
     }
     52%, 73% {
-        background-image: url(/assets/imgs/estudiantes.jpg);
+        background-image: url('../assets/imgs/estudiantes.jpg');
     }
     78%, 100% {
-        background-image: url(/assets/imgs//medicos.jpg);
+        background-image: url('../assets/imgs/medicos.jpg');
     }
 }
 .menu {
